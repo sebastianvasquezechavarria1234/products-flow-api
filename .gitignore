@@ -1,0 +1,35 @@
+## .NET / ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.vs/
+.vs/
+
+## Rider / JetBrains
+.idea/
+
+## Visual Studio Code
+.vscode/
+
+## NuGet
+packages/
+*.nupkg
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+
+## OS Files
+.DS_Store
+Thumbs.db
+
+## Sensitive config (keep appsettings.json for structure but ignore secrets)
+appsettings.Development.json
