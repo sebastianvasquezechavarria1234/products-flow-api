@@ -1,6 +1,6 @@
-# 🛒 Products REST API — ASP.NET Core Web API
+# 🛒 Products Flow API — ASP.NET Core Web API
 
-> A clean and efficient **RESTful API** built with **ASP.NET Core 8** and **Entity Framework Core** for full product management (CRUD) with dynamic sorting support, connected to **SQL Server** and documented with **Swagger/OpenAPI**.
+> A clean and efficient **RESTful API** built with **ASP.NET Core 8** and **Entity Framework Core** for complete product management (CRUD) with dynamic sorting support, connected to **SQL Server** and documented with **Swagger/OpenAPI**.
 
 ---
 
@@ -43,7 +43,7 @@
 ## 📁 Project Structure
 
 ```
-WebApi/
+ProductsFlowAPI/
 ├── 📂 Context/
 │   └── ApplicationDbContext.cs      # EF Core DbContext
 ├── 📂 Controllers/
@@ -58,7 +58,7 @@ WebApi/
 ├── Program.cs                       # Application entry point & DI setup
 ├── appsettings.json                 # App configuration (connection string)
 ├── appsettings.Development.json     # Dev-specific overrides
-└── WebApi.csproj                    # Project dependencies
+└── WebApi.csproj                    # Project file & dependencies
 ```
 
 ---
@@ -203,8 +203,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 <div align="center">
 
-Made with ❤️ using **ASP.NET Core 8** + **Entity Framework Core** + **SQL Server**
+⭐ If you found this project useful, give it a star!
 
-⭐ If you found this project helpful, please give it a star!
+**Products Flow API** — Built with ASP.NET Core 8 · Entity Framework Core · SQL Server
 
 </div>
