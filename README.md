@@ -74,8 +74,8 @@ WebApi/
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/sebastianvasquezechavarria1234/breef.git
-cd breef
+git clone https://github.com/sebastianvasquezechavarria1234/manila.git
+cd manila
 ```
 
 ### 2️⃣ Configure the connection string
